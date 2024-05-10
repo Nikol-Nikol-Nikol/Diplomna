@@ -3,52 +3,85 @@
 @{
     ViewData["Title"] = "Details";
 }
+<style>
+    #btnOrder {
+        width: 160px;
+        background-color: #5f43b2;
+    }
 
-<h1>Details</h1>
+    #ccount {
+        width: 160px;
+    }
 
-<div>
-    <h4>Product</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Name)
+    .order {
+        display: flex;
+        justify-content: center;
+    }
+
+
+</style>
+<div >
+    <h1>Детайли за обувките</h1>
+
+    <div class="details">
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                Наименование:
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt class="col-sm-2">
+                Категория:
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Categories.Name)
+            </dd>
+            <dt class="col-sm-2">
+                Размер
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Size)
+            </dd>
+            <dt class="col-sm-2">
+                Цена:
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Price) лв.
+            </dd>
+            <dt class="col-sm-2">
+                Снимка:
+            </dt>
+            <dd class="col-sm-10">
+                <img src="@Html.DisplayFor(model => model.PhotoURL)" width="240" />
+            </dd>
+
+        </dl>
+    </div>
+    @if (User.IsInRole("Admin"))
+    {
+        <div>
+            <a class="btn btn-primary" asp-action="Edit" asp-route-id="@Model?.Id">Edit</a>
+            <a class="btn btn-primary" asp-action="Index">Back to List</a>
+        </div>
+    }
+    else
+    {
+
+        <dt class="col-sm-2">
+            Направи поръчка:
         </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Name)
+        <dd class="col-sm-10">
+            <form method="get" asp-controller="Orders" asp-action="CreateWithProductId" asp-route-productId="@Model.Id">
+                <input name="productId" type="hidden" value="@Model.Id" />
+                <input name="countP" id="ccount" type="number" width="1" value="1" style="color:black; font:bold" />
+
+                <input type="submit" id="btnOrder" value="Поръчай" class="btn btn-primary" />
+            </form>
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Categories)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Categories.Id)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Size)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Size)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Price)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Price)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.PhotoURL)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.PhotoURL)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Date)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Date)
-        </dd>
-    </dl>
+
+    }
 </div>
-<div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
-</div>
+
+

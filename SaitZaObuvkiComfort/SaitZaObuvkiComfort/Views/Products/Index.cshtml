@@ -7,6 +7,20 @@
     thead{
         background-color: #BBA2D6
     }
+    #btnOrder{
+        width:160px;
+        background-color: #5f43b2;
+    }
+
+    #ccount {
+        width: 160px;
+    }
+
+    .order{
+        display:flex;
+        justify-content:center;
+
+    }
 </style>
 <center><h1>Обувки</h1></center>
 
@@ -38,7 +52,7 @@
             @if (User.IsInRole("Admin"))
             {
                 <th>
-                    @Html.DisplayNameFor(model => model.Date)
+                    Дата на промяна
                 </th>
             }
            
@@ -49,7 +63,7 @@
 @foreach (var item in Model) {
         <tr>
                 <td>
-                    @Html.DisplayFor(modelItem => item.PhotoURL)
+                    <a asp-action="Details" asp-route-id="@item.Id"><img src="@Html.DisplayFor(modelItem => item.PhotoURL)" width="110" /></a>
                 </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Name)
@@ -61,7 +75,7 @@
                 @Html.DisplayFor(modelItem => item.Size)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Price)
+                @Html.DisplayFor(modelItem => item.Price) лв.
             </td>
                 @if (User.IsInRole("Admin"))
                 {
@@ -72,11 +86,23 @@
                 @if (User.IsInRole("Admin"))
                 {
                     <td>
-                        <a class="btn-btn-primary" asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                        <a class="btn-btn-primary" asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                        <a class ="btn-btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                        <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Edit</a> 
+                        <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.Id">Details</a> 
+                        <a class ="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
                     </td>
                 }
+                else
+                {
+                    <td class="order">
+                        <form method="get" asp-controller="Orders" asp-action="CreateWithProductId" asp-route-productId="@item.Id">
+                            <input name="productId" type="hidden" value="@item.Id" />
+                            <input name="countP" id="ccount" type="number" width="1" value="1" style="color:black; font:bold" />
+                            <br />
+                            <input type="submit" id="btnOrder"value="Поръчай" class="btn btn-primary" />
+                        </form>
+                    </td>
+                }
+
          
         </tr>
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj": {}
+    "C:\\Users\\rijko\\Documents\\Diplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj": {}
   },
   "projects": {
-    "E:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj": {
+    "C:\\Users\\rijko\\Documents\\Diplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj",
+        "projectUniqueName": "C:\\Users\\rijko\\Documents\\Diplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj",
         "projectName": "SaitZaObuvkiComfort",
-        "projectPath": "E:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj",
+        "projectPath": "C:\\Users\\rijko\\Documents\\Diplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj",
         "packagesPath": "C:\\Users\\rijko\\.nuget\\packages\\",
-        "outputPath": "E:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\obj\\",
+        "outputPath": "C:\\Users\\rijko\\Documents\\Diplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rijko\\AppData\\Roaming\\NuGet\\NuGet.Config",

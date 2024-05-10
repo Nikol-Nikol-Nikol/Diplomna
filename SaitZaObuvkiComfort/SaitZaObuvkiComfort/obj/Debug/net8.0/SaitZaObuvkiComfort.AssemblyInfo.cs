@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaitZaObuvkiComfort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83a660db8c3b3553721a988d4328681d4294c92f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaitZaObuvkiComfort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaitZaObuvkiComfort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

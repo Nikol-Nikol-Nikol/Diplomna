@@ -7,7 +7,8 @@
         public Client Clients { get; set; }
         public int ProductId { get; set; }
         public Product Products { get; set; }
-       
+        
+        public int Quantity { get; set; }
         public DateTime Data {  get; set; }= DateTime.Now;
     }
 }

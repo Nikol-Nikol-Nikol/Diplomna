@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hX+mFoUgfiS1kynrCM2PpYwHeYJsy+Gk5LnqTurt7hgYYwfmBHf8zVDtcLce4f77VbAoNRmRFvfub6qMb3XBVQ==",
+  "dgSpecHash": "0FwM6c4RchLy3MPBuXoE9HPYjI+6SJjBmnqx1Qb5NHUyZ7o4X/y8T4yzjjcMW7/8eohK95a6PSkaXWbGttOM1w==",
   "success": true,
-  "projectFilePath": "E:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj",
+  "projectFilePath": "C:\\Users\\rijko\\Documents\\Diplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rijko\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\rijko\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
