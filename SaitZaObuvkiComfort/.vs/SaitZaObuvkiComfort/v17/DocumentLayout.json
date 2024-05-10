@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|d:\\nikol12ddiplomna\\saitzaobuvkicomfort\\saitzaobuvkicomfort\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|solutionrelative:saitzaobuvkicomfort\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\saitzaobuvkicomfort\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|solutionrelative:saitzaobuvkicomfort\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\saitzaobuvkicomfort\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|solutionrelative:saitzaobuvkicomfort\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\saitzaobuvkicomfort\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|solutionrelative:saitzaobuvkicomfort\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\saitzaobuvkicomfort\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|solutionrelative:saitzaobuvkicomfort\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\saitzaobuvkicomfort\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|solutionrelative:saitzaobuvkicomfort\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\saitzaobuvkicomfort\\data\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|solutionrelative:saitzaobuvkicomfort\\data\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\saitzaobuvkicomfort\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|solutionrelative:saitzaobuvkicomfort\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\saitzaobuvkicomfort\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|solutionrelative:saitzaobuvkicomfort\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\saitzaobuvkicomfort\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7499B1D-BF4E-4BF2-9410-97DC069DDC9B}|SaitZaObuvkiComfort\\SaitZaObuvkiComfort.csproj|solutionrelative:saitzaobuvkicomfort\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SaitZaObuvkiComfort\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SaitZaObuvkiComfort\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-29T06:25:41.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\Data\\Category.cs",
+              "RelativeDocumentMoniker": "SaitZaObuvkiComfort\\Data\\Category.cs",
+              "ToolTip": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\Data\\Category.cs",
+              "RelativeToolTip": "SaitZaObuvkiComfort\\Data\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:15:39.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SaitZaObuvkiComfort\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SaitZaObuvkiComfort\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:15:40.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\appsettings.json",
+              "RelativeDocumentMoniker": "SaitZaObuvkiComfort\\appsettings.json",
+              "ToolTip": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\appsettings.json",
+              "RelativeToolTip": "SaitZaObuvkiComfort\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T06:15:40.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "SaitZaObuvkiComfort\\Data\\Product.cs",
+              "ToolTip": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\Data\\Product.cs",
+              "RelativeToolTip": "SaitZaObuvkiComfort\\Data\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:15:40.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\Data\\Client.cs",
+              "RelativeDocumentMoniker": "SaitZaObuvkiComfort\\Data\\Client.cs",
+              "ToolTip": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\Data\\Client.cs",
+              "RelativeToolTip": "SaitZaObuvkiComfort\\Data\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:15:40.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "SaitZaObuvkiComfort\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "SaitZaObuvkiComfort\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:15:40.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\Data\\Order.cs",
+              "RelativeDocumentMoniker": "SaitZaObuvkiComfort\\Data\\Order.cs",
+              "ToolTip": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\Data\\Order.cs",
+              "RelativeToolTip": "SaitZaObuvkiComfort\\Data\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:15:40.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SaitZaObuvkiComfort\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SaitZaObuvkiComfort\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:15:40.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "SaitZaObuvkiComfort\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Nikol12dDiplomna\\SaitZaObuvkiComfort\\SaitZaObuvkiComfort\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "SaitZaObuvkiComfort\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:15:40.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
